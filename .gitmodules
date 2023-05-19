@@ -1,0 +1,4 @@
+[submodule "openbalena-ansible"]
+	path = openbalena-ansible
+	url = https://github.com/florianluediger/openbalena-ansible
+	branch = main
