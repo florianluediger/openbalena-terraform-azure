@@ -16,7 +16,7 @@ terraform init
 terraform apply
 ```
 
-## Connecting to the EC2 instance via SSH
+## Connecting to the Virtual Machine via SSH
 
 To connect via ssh, you need to get the SSH private key from the terraform outputs and fix its format.
 
